@@ -27,7 +27,7 @@ Create a fully functional ATM menu system that behaves like a real ATM using onl
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/KonukantiLaxman/<repo-name>.git
+git clone https://github.com/KonukantiLaxman/A.git
 cd <repo-name>
 ```
 
