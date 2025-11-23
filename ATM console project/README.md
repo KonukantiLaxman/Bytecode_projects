@@ -27,26 +27,11 @@ Create a fully functional ATM menu system that behaves like a real ATM using onl
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/KonukantiLaxman/A.git
-cd <repo-name>
+git clone https://github.com/KonukantiLaxman/Bytecode_projects.git
+cd <ATM console project>
 ```
 
-2. Ensure you have Python 3 installed:
-```bash
-python --version
-# or
-python3 --version
-```
-
-## Usage
-Run the console application:
-```bash
-python atm_console.py
-# or
-python3 atm_console.py
-```
-
-Typical flow:
+## Typical flow:
 1. Enter PIN. If correct, you are taken to the main menu.
 2. Choose actions from the menu (check balance, withdraw, deposit, change PIN).
 3. Withdrawals must be in multiples of 100 and the system checks for sufficient balance.
@@ -68,13 +53,7 @@ Typical flow:
 ```
 
 ## Screenshot
-A screenshot of the original assignment/requirements is included in the repository:
-`/mnt/data/Screenshot 2025-11-23 203735.png`
 
-You can copy it to `assets/` and reference it in the README if desired:
-```markdown
-![Project Requirements](assets/screenshot.png)
-```
 
 ## How to Test
 - Test PIN validation by entering correct and incorrect PINs.
@@ -84,12 +63,6 @@ You can copy it to `assets/` and reference it in the README if desired:
   - amounts greater than balance (rejected)
 - Test deposit by adding funds and verifying balance update.
 - Test PIN change flow and confirm old PIN no longer works.
-
-## Contributing
-Contributions are welcome. Please:
-1. Fork the repo
-2. Create a feature branch
-3. Open a pull request with a clear description of changes
 
 ## License
 This project is released under the MIT License. See `LICENSE` for details.
