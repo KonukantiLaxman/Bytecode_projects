@@ -1,14 +1,14 @@
 
-#🏦 Secure Banking ATM Console Application
+# 🏦 Secure Banking ATM Console Application
 
-##📌 Project Overview
+## 📌 Project Overview
 **Secure Banking ATM Console Application** is a console-based Python project that simulates the core functionality of a real bank ATM. The application is designed to be straightforward, exam-ready, and implemented using only `while` loops to practice control flow logic.
 
-##🎯 Project Objective
+## 🎯 Project Objective
 Create a fully functional ATM menu system that behaves like a real ATM using only `while` loops. The application should provide clear prompts and messages for the user and handle invalid operations gracefully.
 
 ## ✨Features
--🔐 PIN verification (default correct PIN: `2004`)
+- 🔐 PIN verification (default correct PIN: `2004`)
 - ❌Maximum **3 wrong attempts** → account/card gets blocked
 - 📋Main menu after successful PIN entry:
   - Check Balance
@@ -22,14 +22,14 @@ Create a fully functional ATM menu system that behaves like a real ATM using onl
 ## 🛠️ Tech Stack
 - Python 3.x (no external libraries required)
 
-##📥  Installation
+## 📥  Installation
 1. Clone the repository:
 ```bash
 git clone https://github.com/KonukantiLaxman/Bytecode_projects.git
 cd <ATM console project>
 ```
 
-##🔁 Typical flow:
+## 🔁 Typical flow:
 1. Enter PIN. If correct, you are taken to the main menu.
 2. Choose actions from the menu (check balance, withdraw, deposit, change PIN).
 3. Withdrawals must be in multiples of 100 and the system checks for sufficient balance.
@@ -70,10 +70,10 @@ cd <ATM console project>
 - Test deposit by adding funds and verifying balance update.
 - Test PIN change flow and confirm old PIN no longer works.
 
-##📄 License
+## 📄 License
 This project is released under the MIT License. See `LICENSE` for details.
 
-##👨‍💻 Author
+## 👨‍💻 Author
 Konukanti Laxman
 
 ---
