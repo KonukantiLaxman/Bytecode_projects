@@ -53,6 +53,11 @@ cd <ATM console project>
 ```
 
 ## Screenshot
+<img width="1171" height="366" alt="Screenshot 2025-11-24 111449" src="https://github.com/user-attachments/assets/f5b2456f-fd97-4d14-910b-76d6d118f831" />
+<img width="817" height="316" alt="Screenshot 2025-11-24 111418" src="https://github.com/user-attachments/assets/f2800232-085a-42be-a9ac-d95c4a168981" />
+<img width="673" height="321" alt="Screenshot 2025-11-24 111603" src="https://github.com/user-attachments/assets/8d3bceb4-a47a-4ee3-b10e-f9d0375e0973" />
+<img width="709" height="323" alt="Screenshot 2025-11-24 111735" src="https://github.com/user-attachments/assets/5aae3d73-2b80-4c1f-8345-6b4a640a9e79" />
+
 
 
 ## How to Test
