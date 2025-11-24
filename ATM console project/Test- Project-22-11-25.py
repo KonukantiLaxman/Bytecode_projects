@@ -4,7 +4,7 @@
 # In[24]:
 
 
-# print("=== Welcome to HDFC Bank ATM ===")
+print("=== Welcome to HDFC Bank ATM ===")
 balance=50000
 correct_pin="2004"
 pin=input("enter Pin:")
@@ -38,15 +38,13 @@ else:
                 amount=int(input("enter amount to withdraw:"))
                 if amount%100==0 and amount<=balance:
                     balance-=amount
-                    print("withdraw successful")
-                    print("new balance:",balance)
+                    print("withdraw successful","available balance:",balance)
                 else:
-                    print("invalid amount  or insufficient balance")
+                    print("entered invalid amount  or insufficient balance")
             case 3:
                 amount=int(input("enter amount to Deposit:"))
                 balance+=amount
-                print("deposit succesful")
-                print("new balance:",balance)
+                print("deposit succesful","available balance:",balance)
             case 4:
                 old=input("enter old Pin:")
                 if old==correct_pin:
@@ -64,6 +62,16 @@ else:
              print("Invalid option..,try again.")
 
             
+        
+
+    
+        
+
+            
+        
+
+    
+        
         
 
     
