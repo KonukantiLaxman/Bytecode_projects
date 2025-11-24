@@ -67,8 +67,6 @@ cd <ATM console project>
 - Test deposit by adding funds and verifying balance update.
 - Test PIN change flow and confirm old PIN no longer works.
 
-## 📄 License
-This project is released under the MIT License. See `LICENSE` for details.
 
 ## 👨‍💻 Author
 Konukanti Laxman
