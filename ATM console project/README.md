@@ -21,6 +21,7 @@ Create a fully functional ATM menu system that behaves like a real ATM using onl
 
 ## 🛠️ Tech Stack
 - Python 3.x (no external libraries required)
+- Jupitor Notebook
 
 ## 📥  Installation
 1. Clone the repository:
